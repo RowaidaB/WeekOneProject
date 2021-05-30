@@ -3,8 +3,8 @@ week one project frontend course
 
 ## Table of Contents
 1. [General Info](#general-info)
-2. [Project contents](#project content)
-3. ## General Info
+3. [Project contents](#project-content)
+4. ## General Info
 ***
 Implementation of the first project using (HTMAL Language). 
 
